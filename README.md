@@ -19,14 +19,11 @@
   <a href="mailto:kaliraj.jeganathan@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://codepen.com/Kaliraj_J" target="_blank">
+  <a href="https://codepen.com/jkaliraj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="37" height="25" alt="codepen logo"  />
   </a>
-  <a href="https://stackoverflow.com/Kaliraj_J" target="_blank">
+  <a href="https://stackoverflow.com/jkaliraj" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="37" height="25" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://kofi.com/Kaliraj_J" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="37" height="25" alt="ko-fi logo"  />
   </a>
 </div>
 
