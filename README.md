@@ -64,8 +64,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
 ###
 
 <div align="center">
@@ -75,6 +73,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jkaliraj/jkaliraj/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jkaliraj/jkaliraj/output/snake-dark.svg" alt="Snake animation" />
 
 ###
