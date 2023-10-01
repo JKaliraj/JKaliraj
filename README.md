@@ -3,7 +3,7 @@
 </div>
 
 
-<h2 align="center">Hi 👋, I'm Kaliraj</h2>
+<h1 align="center">Hi 👋, I'm Kaliraj</h1>
 
 
 <div align="center">
@@ -38,7 +38,7 @@
 
 ###
 
-<p style="font-size:2em;font-weight:bold;" align="left">👩‍💻  About Me</p>
+ <h1 align="left">👩‍💻  About Me</h1>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<p style="font-size:2em;font-weight:bold;" align="left">🛠 Language and tools</p>
+<h1 align="left">🛠 Language and tools</h1>
 
 ###
 
