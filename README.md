@@ -1,4 +1,10 @@
-<div align="center">
+<style>
+    .unclickable-div {
+        pointer-events: none !important;
+    }
+</style>
+
+<div align="center" class="unclickable-div">
  <img height="180" src="https://i.postimg.cc/D0zDmgFr/profile.png"  />
 </div>
 
@@ -32,7 +38,7 @@
 
 ###
 
-<div align="center" style="pointer-events: none">
+<div align="center" class="unclickable-div">
   <img src="https://profile-counter.glitch.me/jkaliraj/count.svg?"  />
 </div>
 
@@ -78,7 +84,7 @@
 
 ###
 
-<div align="center" style="pointer-events: none">
+<div align="center" class="unclickable-div">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jkaliraj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <br/>
   <img src="https://streak-stats.demolab.com?user=jkaliraj&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=10&order=3" height="220" alt="streak graph"  />
@@ -86,6 +92,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jkaliraj/jkaliraj/output/snake-dark.svg" alt="Snake animation" style="pointer-events: none"/>
+<img src="https://raw.githubusercontent.com/jkaliraj/jkaliraj/output/snake-dark.svg" alt="Snake animation" class="unclickable-div"/>
 
 ###
