@@ -26,14 +26,15 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="37" height="25" alt="stackoverflow logo"  />
   </a>
 </div>
-
+<br/>
 <div align="center">
 <a href="https://donate.stripe.com/14kg1B4au83I3Li4gg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
  </div>
+ <br/>
 <div align="center">
   <img src="https://profile-counter.glitch.me/jkaliraj/count.svg?"  />
 </div>
-
+<br/>
 
 
  <h1 align="left">👩‍💻  About Me</h1>
