@@ -1,12 +1,10 @@
 <div align="center">
- <img height="150" src="https://i.postimg.cc/D0zDmgFr/profile.png"  />
+ <img height="180" src="https://i.postimg.cc/D0zDmgFr/profile.png"  />
 </div>
 
-###
 
 <h1 align="center">Hi 👋, I'm Kaliraj</h1>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jkaliraj/" target="_blank">
