@@ -2,7 +2,7 @@
  <img height="100" src="https://i.postimg.cc/j5200yfw/121792584-modified.png"  />
 </div>
 
-<p align="center">Hi 👋, I'm Kaliraj</p>
+<h1 align="center">Hi 👋, I'm Kaliraj</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jkaliraj/">
@@ -39,7 +39,7 @@
 
 
 
-<p align="left">🔭 Currently working on ZeroOS.<br>🌱 Learning Django and React.<br>👨‍💻 Portfolio: https://krdeveloper.web.app<br>💬 Ask me about Django.<br>📫 Contact: kaliraj.jeganathan@gmail.com.</p>
+<p align="left">🔭 Currently working on ZeroOS.<br>🌱 Learning Django and React.<br>👨‍💻 Portfolio: https://krdeveloper.web.app<br>💬 Ask me about Django.<br>📫 Contact: <a href="mailto:kaliraj.jeganathan@gmail.com">kaliraj.jeganathan@gmail.com</a></p>
 
 
 
@@ -47,27 +47,27 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" title="c"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql"  />
 </div>
 
 <div align="center">
