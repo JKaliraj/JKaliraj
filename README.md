@@ -6,22 +6,22 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jkaliraj/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" title="linkedin"  />
   </a>
   <a href="https://twitter.com/iamKaliraj_J">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" title="twitter"  />
   </a>
   <a href="https://www.hackerrank.com/Kaliraj_J">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="37" height="25" alt="hackerrank logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="37" height="25" title="hackerrank"  />
   </a>
   <a href="mailto:kaliraj.jeganathan@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" title="gmail"  />
   </a>
   <a href="https://codepen.com/jkaliraj">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="37" height="25" alt="codepen logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="37" height="25" title="codepen"  />
   </a>
   <a href="https://stackoverflow.com/jkaliraj">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="37" height="25" alt="stackoverflow logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="37" height="25" title="stackoverflow"  />
   </a>
 </div>
 <br/>
@@ -49,25 +49,25 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" title="c"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" title="python"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" title="django"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" title="flask"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" title="html5"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" title="css3"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" title="javascript"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" title="firebase"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" title="java"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="mongodb"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="mysql"  />
 </div>
 
 <div align="center">
