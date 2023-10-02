@@ -1,5 +1,5 @@
 <div align="center">
- <img height="180" style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/121792584?v=4"  />
+ <img height="100" src="https://i.postimg.cc/j5200yfw/121792584-modified.png"  />
 </div>
 
 <h2 align="center">Hi 👋, I'm Kaliraj</h2>
