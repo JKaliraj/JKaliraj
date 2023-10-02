@@ -2,25 +2,25 @@
  <img height="100" src="https://i.postimg.cc/j5200yfw/121792584-modified.png"  />
 </div>
 
-<h2 align="center">Hi 👋, I'm Kaliraj</h2>
+<p align="center">Hi 👋, I'm Kaliraj</p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jkaliraj/" target="_blank">
+  <a href="https://www.linkedin.com/in/jkaliraj/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/iamKaliraj_J" target="_blank">
+  <a href="https://twitter.com/iamKaliraj_J">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://www.hackerrank.com/Kaliraj_J" target="_blank">
+  <a href="https://www.hackerrank.com/Kaliraj_J">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="37" height="25" alt="hackerrank logo"  />
   </a>
-  <a href="mailto:kaliraj.jeganathan@gmail.com" target="_blank">
+  <a href="mailto:kaliraj.jeganathan@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://codepen.com/jkaliraj" target="_blank">
+  <a href="https://codepen.com/jkaliraj">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="37" height="25" alt="codepen logo"  />
   </a>
-  <a href="https://stackoverflow.com/jkaliraj" target="_blank">
+  <a href="https://stackoverflow.com/jkaliraj">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="37" height="25" alt="stackoverflow logo"  />
   </a>
 </div>
