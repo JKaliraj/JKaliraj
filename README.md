@@ -1,6 +1,7 @@
-<div align="center">
- <img height="100" src="https://i.postimg.cc/j5200yfw/121792584-modified.png"  />
+<!--<div align="center">
+ <img height="100" src="https://avatars.githubusercontent.com/u/121792584?s=400&u=8358813ecf7a4642d8d35c9398969b7e84420c33&v=4"  />
 </div>
+-->
 
 <h1 align="center">Hi 👋, I'm KR</h1>
 
