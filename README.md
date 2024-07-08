@@ -2,7 +2,7 @@
  <img height="100" src="https://i.postimg.cc/j5200yfw/121792584-modified.png"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Kaliraj</h1>
+<h1 align="center">Hi 👋, I'm KR</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jkaliraj/">
@@ -39,7 +39,7 @@
 
 
 
-<p align="left">🔭 Currently working on ZeroOS.<br>🌱 Learning Django and React.<br>👨‍💻 Portfolio: https://krdeveloper.web.app<br>💬 Ask me about Django.<br>📫 Contact: <a href="mailto:kaliraj.jeganathan@gmail.com">kaliraj.jeganathan@gmail.com</a></p>
+<p align="left">🔭 Currently working on Hewlett-Packard Inc. <img src="https://1000logos.net/wp-content/uploads/2017/02/HP-Logo-2012.png" alt="HP" style="width:10px;height:10px;"><br>🌱 Learning C and C++<br>👨‍💻 Portfolio: https://krdeveloper.web.app<br>📫 Contact: <a href="mailto:kaliraj.jeganathan@gmail.com">kaliraj.jeganathan@gmail.com</a></p>
 
 
 
